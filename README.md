@@ -1,6 +1,7 @@
 # BookListApp
 
-This is just an example for how to use LocalStorage
+This is just an example for how to use LocalStorage. 
+Try to add a new book and refresh page.
 
 ## Used Technologies 
 
@@ -9,6 +10,7 @@ This is just an example for how to use LocalStorage
 + Vanilla JavaScript
 
 ## Live Demo 
+
 *[Live Demo](https://caglayancaliskan.github.io/BookListApp/)*
 
 
